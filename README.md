@@ -10,4 +10,4 @@ Code for reproducing experiments in ["Bounding Singular Values of Convolution La
 
 ## Basic Usage
 
-To train the model with parameter value BETA, run python main.py --beta BETA_VALUE. To access all the parameters use python main.py --help.
+To train the model with parameter value BETA, run python main.py --beta BETA. To access all the parameters use python main.py --help.
